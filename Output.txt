@@ -1,0 +1,1 @@
+13571.885385274887 seconds to parse 42324 pages.
